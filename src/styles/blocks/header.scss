@@ -165,8 +165,7 @@
   }
 
   &__img {
-    height: 172px;
-    width: 320px;
+    width: 100%;
 
     @include on-tablet {
       position: absolute;
